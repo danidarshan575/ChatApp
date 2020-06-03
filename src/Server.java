@@ -1,5 +1,4 @@
 // NAME : Darshan Dani
-// UTA ID : 1001764937
 
 // This is the server class. It takes and sends messages from one client to other clients.
 
